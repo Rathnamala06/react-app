@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-app/static/css/main.63a9d200.css",
-    "main.js": "/react-app/static/js/main.8c48e9c8.js",
+    "main.js": "/react-app/static/js/main.fbec23c3.js",
     "static/js/787.b701888c.chunk.js": "/react-app/static/js/787.b701888c.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/react-app/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/react-app/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -10,11 +10,11 @@
     "static/media/fontawesome-webfont.woff2?v=4.7.0": "/react-app/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
     "index.html": "/react-app/index.html",
     "main.63a9d200.css.map": "/react-app/static/css/main.63a9d200.css.map",
-    "main.8c48e9c8.js.map": "/react-app/static/js/main.8c48e9c8.js.map",
+    "main.fbec23c3.js.map": "/react-app/static/js/main.fbec23c3.js.map",
     "787.b701888c.chunk.js.map": "/react-app/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.63a9d200.css",
-    "static/js/main.8c48e9c8.js"
+    "static/js/main.fbec23c3.js"
   ]
 }
