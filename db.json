@@ -1,0 +1,51 @@
+{
+  "owners": [
+    {
+      "id": 1,
+      "name": "Max",
+      "contact": 9898989898,
+      "email": "max@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Mini",
+      "contact": 9897979707,
+      "email": "mini@gmail.com"
+    },
+    {
+      "id": 3,
+      "name": "Albert",
+      "contact": 9890098778,
+      "email": "albert@gmail.com"
+    },
+    {
+      "name": "Mala",
+      "contact": "9890980998",
+      "email": "mala@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Nandu",
+      "contact": "9879879879",
+      "email": "nandu@gmail.com",
+      "id": 5
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
